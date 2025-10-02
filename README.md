@@ -52,6 +52,6 @@
 ---
 
 ## 📫 Bog‘lanish
-- 📧 Email: **your-email@example.com**  
-- 💼 LinkedIn: [Profilim](https://linkedin.com/in/your-linkedin)  
-- ✈️ Telegram: [@yourusername](https://t.me/yourusername)  
+- 📧 Email: **jrustamov481@gmail.com**  
+- 💼 LinkedIn: [Profilim](https://www.linkedin.com/in/jahongir-rustamov-034630275/)  
+- ✈️ Telegram: [@yourusername](https://t.me/@JR0525)  
